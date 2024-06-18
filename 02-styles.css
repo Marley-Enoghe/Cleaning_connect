@@ -340,6 +340,9 @@
     margin: var(--section-title-margin);
     color: var(--section-title-color);
   }
+  .section-phrase{
+    color:#db9292
+  }
   
   .section-tagline {
     color: var(--section-tagline-color);
